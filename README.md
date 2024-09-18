@@ -76,7 +76,20 @@ Preview of the project output:
 
 [More Details](Eight-queens-Puzzle)
 
-### 5. 0/1 Knapsack Problem
+### 5. 0/1 Knapsack Problem, Brute Force Method
+This project implements an efficient divide-and-conquer algorithm to find the closest pair of points from a set of points in a two-dimensional plane. It demonstrates the use of geometric algorithms and recursion to reduce the problem’s complexity.
+
+- **Key Concepts**: Divide-and-conquer, geometric algorithms, distance calculation.
+- **Sample Input**: Set of points in a 2D plane.
+- **Sample Output**: Pair of closest points and their distance.
+
+Preview of the project output:
+
+![Project Screenshot](Knapsack-Problem-Brute-Force-Method/Screenshot.png)
+
+[More Details](Knapsack-Problem-Brute-Force-Method)
+
+### 6. 0/1 Knapsack Problem, Dynamic Programming
 This project tackles the 0/1 Knapsack problem using a brute-force approach. The algorithm explores all possible combinations of items to determine the one that maximizes the value while staying within a given weight limit.
 
 - **Key Concepts**: Dynamic programming, brute-force search, combinatorial optimization.
@@ -89,18 +102,6 @@ Preview of the project output:
 
 [More Details](Knapsack-Problem-Dynamic-Programming)
 
-### 6. Closest-Pair Problem
-This project implements an efficient divide-and-conquer algorithm to find the closest pair of points from a set of points in a two-dimensional plane. It demonstrates the use of geometric algorithms and recursion to reduce the problem’s complexity.
-
-- **Key Concepts**: Divide-and-conquer, geometric algorithms, distance calculation.
-- **Sample Input**: Set of points in a 2D plane.
-- **Sample Output**: Pair of closest points and their distance.
-
-Preview of the project output:
-
-![Project Screenshot](Closest-Pair-Problem/Screenshot.png)
-
-[More Details](Closest-Pair-Problem)
 
 ## Learning Resources
 For additional learning resources on algorithm design and implementation, feel free to explore the following references:
