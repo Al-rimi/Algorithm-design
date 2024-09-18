@@ -33,9 +33,9 @@ This project focuses on evaluating arithmetic expressions in infix notation usin
 
 preview of the project output:
 
-![Project Screenshot][/Infix-Expression-Evaluation/Screenshot.png]
+![Project Screenshot][Infix-Expression-Evaluation/Screenshot.png]
 
-[More Details][/Infix-Expression-Evaluation]
+[More Details][Infix-Expression-Evaluation]
 
 ### 2. Huffman Coding
 Huffman coding is a widely used compression algorithm that minimizes the overall bit-length of the encoded data. This project implements the construction of a Huffman tree based on character frequencies, generating optimal variable-length binary codes.
@@ -46,9 +46,9 @@ Huffman coding is a widely used compression algorithm that minimizes the overall
 
 preview of the project output:
 
-![Project Screenshot][/Huffman-coding/Screenshot.png]
+![Project Screenshot][Huffman-coding/Screenshot.png]
 
-[More Details][/Huffman-coding]
+[More Details][Huffman-coding]
 
 ### 3. Kruskal's Algorithm for Minimum Spanning Tree
 This project implements Kruskal’s algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm uses a union-find data structure to ensure efficient cycle detection during edge selection.
@@ -59,9 +59,9 @@ This project implements Kruskal’s algorithm to find the Minimum Spanning Tree 
 
 preview of the project output:
 
-![Project Screenshot][/Kruskal-Algorithm-Minimum-Spanning-Tree/Screenshot.png]
+![Project Screenshot][Kruskal-Algorithm-Minimum-Spanning-Tree/Screenshot.png]
 
-[More Details][/Kruskal-Algorithm-Minimum-Spanning-Tree]
+[More Details][Kruskal-Algorithm-Minimum-Spanning-Tree]
 
 ### 4. Eight Queens Puzzle
 The classic Eight Queens puzzle is solved using a backtracking algorithm to place eight queens on an 8x8 chessboard such that no two queens threaten each other. The project explores the use of recursion to find all valid solutions.
@@ -72,9 +72,9 @@ The classic Eight Queens puzzle is solved using a backtracking algorithm to plac
 
 preview of the project output:
 
-![Project Screenshot][/Eight-queens-Puzzle/Screenshot.png]
+![Project Screenshot][Eight-queens-Puzzle/Screenshot.png]
 
-[More Details][/Eight-queens-Puzzle]
+[More Details][Eight-queens-Puzzle]
 
 ### 5. 0/1 Knapsack Problem
 This project tackles the 0/1 Knapsack problem using a brute-force approach. The algorithm explores all possible combinations of items to determine the one that maximizes the value while staying within a given weight limit.
@@ -82,7 +82,7 @@ This project tackles the 0/1 Knapsack problem using a brute-force approach. The 
 - **Key Concepts**: Dynamic programming, brute-force search, combinatorial optimization.
 - **Sample Input**: Items with weights and values, knapsack capacity.
 - **Sample Output**: Maximum value and selected items.
-[More Details][/Knapsack-Problem-Dynamic-Programming]
+[More Details][Knapsack-Problem-Dynamic-Programming]
 
 ### 6. Closest-Pair Problem
 This project implements an efficient divide-and-conquer algorithm to find the closest pair of points from a set of points in a two-dimensional plane. It demonstrates the use of geometric algorithms and recursion to reduce the problem’s complexity.
@@ -93,9 +93,9 @@ This project implements an efficient divide-and-conquer algorithm to find the cl
 
 preview of the project output:
 
-![Project Screenshot][/Closest-Pair-Problem/Screenshot.png]
+![Project Screenshot][Closest-Pair-Problem/Screenshot.png]
 
-[More Details][/Closest-Pair-Problem]
+[More Details][Closest-Pair-Problem]
 
 
 ## Learning Resources
