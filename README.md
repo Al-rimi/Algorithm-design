@@ -83,6 +83,10 @@ This project tackles the 0/1 Knapsack problem using a brute-force approach. The 
 - **Sample Input**: Items with weights and values, knapsack capacity.
 - **Sample Output**: Maximum value and selected items.
 
+Preview of the project output:
+
+![Project Screenshot](Knapsack-Problem-Dynamic-Programming/Screenshot.png)
+
 [More Details](Knapsack-Problem-Dynamic-Programming)
 
 ### 6. Closest-Pair Problem

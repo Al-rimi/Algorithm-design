@@ -28,12 +28,13 @@ int main()
     // Validate the input
     if (n <= 0 || n >= MAXN) {
         printf("Invalid number of queens. Please enter a value between 1 and %d.\n", MAXN - 1);
+        	printf("\033[0m\n");
         return 1;
     }
     
     // Solve the n-queens problem
     solveQueens(n);
-	printf("\n");
+	printf("\033[0m\n");
     return 0;
 }
 
