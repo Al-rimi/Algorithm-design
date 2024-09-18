@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://syalux.com" target="_blank">
-    <img src="md/favicon.ico" width="80" alt="Project Logo">
+    <img src="../md/favicon.ico" width="80" alt="Project Logo">
   </a>
 </p>
 
