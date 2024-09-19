@@ -68,3 +68,29 @@ Here’s an example of what the output would look like:
 
 ![Project Screenshot](Screenshot.png)
 
+## Learning Resources
+
+- [Infix to Postfix Conversion - GeeksforGeeks](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)  
+  A comprehensive guide on converting infix expressions to postfix notation using stacks, which is a core concept in your project.
+
+- [Stack Data Structure - Programiz](https://www.programiz.com/dsa/stack)  
+  Learn more about the stack data structure, including how it works and why it's essential for evaluating expressions like in your project.
+
+- [Operator Precedence and Associativity in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/operator-precedence-and-associativity-in-c/)  
+  Understand how operator precedence and associativity work in C++, which directly relates to evaluating infix expressions correctly.
+
+- [C++ Stack Library - C++ Reference](https://cplusplus.com/reference/stack/stack/)  
+  A detailed reference to the C++ standard library’s stack, which you are using in your implementation.
+
+- [Evaluating Infix Expressions - Wikipedia](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)  
+  This article explains the Shunting-yard algorithm, a method for parsing infix expressions to postfix (or Reverse Polish Notation), which is closely related to your project.
+
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability, please email Abdullah Al Raimi at [abdullah@syalux.com](mailto:abdullah@syalux.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+This project is licensed under the [MIT license](../LICENSE).
+
