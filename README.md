@@ -37,6 +37,8 @@ Preview of the project output:
 
 [More Details](Infix-Expression-Evaluation)
 
+---
+
 ### 2. Huffman Coding
 Huffman coding is a widely used compression algorithm that minimizes the overall bit-length of the encoded data. This project implements the construction of a Huffman tree based on character frequencies, generating optimal variable-length binary codes.
 
@@ -49,6 +51,8 @@ Preview of the project output:
 ![Project Screenshot](Huffman-coding/Screenshot.png)
 
 [More Details](Huffman-coding)
+
+---
 
 ### 3. Kruskal's Algorithm for Minimum Spanning Tree
 This project implements Kruskal’s algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm uses a union-find data structure to ensure efficient cycle detection during edge selection.
@@ -63,6 +67,8 @@ Preview of the project output:
 
 [More Details](Kruskal-Algorithm-Minimum-Spanning-Tree)
 
+---
+
 ### 4. Eight Queens Puzzle
 The classic Eight Queens puzzle is solved using a backtracking algorithm to place eight queens on an 8x8 chessboard such that no two queens threaten each other. The project explores the use of recursion to find all valid solutions.
 
@@ -76,6 +82,8 @@ Preview of the project output:
 
 [More Details](Eight-queens-Puzzle)
 
+---
+
 ### 5. 0/1 Knapsack Problem, Brute Force Method
 This project implements an efficient divide-and-conquer algorithm to find the closest pair of points from a set of points in a two-dimensional plane. It demonstrates the use of geometric algorithms and recursion to reduce the problem’s complexity.
 
@@ -88,6 +96,8 @@ Preview of the project output:
 ![Project Screenshot](Knapsack-Problem-Brute-Force-Method/Screenshot.png)
 
 [More Details](Knapsack-Problem-Brute-Force-Method)
+
+---
 
 ### 6. 0/1 Knapsack Problem, Dynamic Programming
 This project tackles the 0/1 Knapsack problem using a brute-force approach. The algorithm explores all possible combinations of items to determine the one that maximizes the value while staying within a given weight limit.
