@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://syalux.com" target="_blank">
-    <img src="md/favicon.ico" width="80" alt="Project Logo">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Al-rimi/Algorithm-design/releases">
     <img src="https://img.shields.io/github/v/release/Al-rimi/Algorithm-design" alt="Latest Stable Version">
   </a>
