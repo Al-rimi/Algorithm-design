@@ -11,7 +11,6 @@
 </p>
 
 
-
 # Algorithm Design Projects
 
 This repository contains several algorithm design projects I have completed as part of my coursework at Zhejiang Normal University, China, under the guidance of Professor 李小波. These projects cover fundamental algorithms and their applications, offering both theoretical insights and practical implementations in C/C++.
